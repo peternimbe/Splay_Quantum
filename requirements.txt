@@ -1,0 +1,8 @@
+numpy>=1.26
+scipy>=1.11
+pandas>=2.1
+matplotlib>=3.9
+networkx>=3.2
+ipython>=8
+nbformat>=5.10
+matplotlib-inline>=0.1
